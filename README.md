@@ -1,4 +1,4 @@
-Summary of whats done:
+Summary :
 
 Currency Conversion: Allows users to convert between different currencies.
 
